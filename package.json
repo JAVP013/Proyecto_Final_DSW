@@ -1,0 +1,21 @@
+{
+  "name": "02u2-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.8",
+    "apollo-server": "^3.13.0",
+    "facturapi": "^4.4.1",
+    "graphql": "^16.9.0",
+    "mongoose": "^8.8.0",
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
